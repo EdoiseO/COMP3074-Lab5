@@ -1,0 +1,26 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Local IDE metadata and build output
+.idea/
+.kotlin/
+**/build/
+# Reports and recordings stay outside the application repository.
+outputs/
+*.mp4
+*.mov
+*.md
+!README.md
